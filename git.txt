@@ -1,0 +1,33 @@
+1.git init-->git initialize
+2.git status
+3.git add .
+4.set username and email for git
+git config --global user.email"engr.mohammadjannatulnayeem@gmail.com"
+  git config --local user.name"Engr.Nayeem"
+  git config --list
+5.git commit -m "project uploaded"
+create  a new repository on command line
+6.git branch -M main
+7.git remote add origin https://github.com/engrnayeem/BasicHtmlTable.git
+8.git push -u origin main
+9.git pull origin main
+code & automation-->pages-->save the branch to main or master where from you want to show the repository.
+main & master origin duitai branch
+10.For clear window write the code clear in git bash command line
+11.Then agin check git status
+12.If I  want to modified any coding in my html file and want to insert/add any new html file in my git hub branch then i have to follow the below given instructions.
+13.$git add -A
+14.git commit -m 'Index file updated and about file created'
+15.then for again check  write the code git status
+16.then again write the code for git push--> git push -u origin main
+17.then git pull-->git pull origin main
+18.in git code section there is a option add a README.Here we can write the web view link of that branch.
+19.for copy any project from github we have to use use fork option from github.
+20.for download any git project just copy that git project link from the git code section then open the powershell window
+and write the code--> git clone and paste the git project link that  i want to download.Thats it.[ we have to press ctrl+shift for powershell window option]
+21.after download/clone a project from git if we remove the git folder from that project we have to write this code in gitbash -->rm -fr .git
+22.Github a commit kora mane comment kora.
+
+
+
+
